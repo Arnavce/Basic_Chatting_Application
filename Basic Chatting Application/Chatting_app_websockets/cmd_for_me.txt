@@ -1,0 +1,9 @@
+npm init -y                       
+
+npm install typescript
+
+npx tsc --init
+
+root dir and out dir 
+
+npm i ws @types/ws 
